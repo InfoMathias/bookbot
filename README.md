@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first project!
+BookBot counts the occurences of characters in any text file
